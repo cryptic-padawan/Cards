@@ -1,0 +1,22 @@
+const cards=[
+                {
+                    id: 1,
+                    href: "https://via.placeholder.com/600/92c952",
+                    name: "jasmine",
+                    description: "my saved picture"
+                },
+                {
+                    id: 2,
+                    href: "https://via.placeholder.com/600/92c952",
+                    name: "joulie",
+                    description: "my saved picture"
+                },
+                {
+                    id: 3,
+                    href: "https://via.placeholder.com/600/92c952",
+                    name: "jyoti",
+                    description: "my saved picture"
+                }
+            ];
+ 
+export default cards;
